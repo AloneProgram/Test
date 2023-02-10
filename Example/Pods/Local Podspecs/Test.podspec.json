@@ -1,0 +1,22 @@
+{
+  "name": "Test",
+  "version": "0.1.0",
+  "summary": "A short description of Test.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhouzhzijie/Test",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhouzhzijie": "409222846@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zhouzhzijie/Test.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Test/Classes/**/*"
+}
